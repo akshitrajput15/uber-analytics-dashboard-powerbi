@@ -20,31 +20,37 @@ Modern and intuitive dashboard interface
 Interactive navigation across report sections
 Dynamic vehicle category filtering
 Seamless user experience
+
 📈 Business Overview
 Monthly booking and revenue trends
 Ride completion vs. cancellation analysis
 Driver and customer rating insights
 Pickup and drop-off hotspot visualization
+
 🚘 Vehicle Performance Analytics
 Vehicle-wise booking distribution
 Revenue contribution by vehicle category
 Customer preference analysis
 Monthly performance tracking
+
 💰 Revenue Intelligence
 Monthly and quarterly revenue analysis
 Payment method performance insights
 Top customer contribution analysis
 Revenue comparison across vehicle types
+
 👤 Rider Behavior Analytics
 New, returning, and loyal rider segmentation
 Customer payment preferences
 Cancellation reason analysis
 Rider growth and retention trends
+
 📍 Location Intelligence
 High-demand pickup and drop zones
 Distance trend analysis
 Peak-hour demand heatmaps
 Location-wise vehicle performance tracking
+
 🛠️ Technology Stack
 Power BI
 Power Query
@@ -54,6 +60,7 @@ Data Cleaning & Transformation
 KPI Development
 Interactive Reporting
 Business Intelligence & Data Visualization
+
 💡 Key Business Insights
 
 ✅ Auto rides emerged as the highest revenue-generating vehicle category.

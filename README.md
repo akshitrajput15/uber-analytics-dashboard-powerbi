@@ -1,70 +1,74 @@
-# uber-analytics-dashboard-powerbi
-uber-analytics-dashboard-powerbi
-Power BI Uber Dashboard showcasing ride bookings, revenue trends, rider behavior, vehicle performance, payment insights, cancellation analysis, and location-based demand with interactive KPIs and business intelligence visuals.
-
 🚖 Uber Analytics Dashboard | Power BI
-An interactive Uber Analytics Dashboard built in Power BI to analyze ride bookings, revenue, rider behavior, vehicle performance, trip distance, cancellations, and location-based demand.
 
-This project converts ride-sharing data into actionable business insights using KPI cards, monthly trends, payment analysis, and location intelligence.
+Transforming raw ride-sharing data into powerful business intelligence through an interactive and visually engaging Power BI solution.
 
-📊 Dashboard Highlights
-🚕 Completed Bookings: 93K
-❌ Lost Bookings: 57K
-💰 Revenue: 52M
-📍 Total Distance: 2.51M
-📏 Average Distance: 24.64
-🚀 Dashboard Pages
-🏠 Home
-Interactive landing page with smooth navigation
-Modern UI with vehicle category selection
-Page routing to dashboard sections
-📈 Overview
-Monthly booking trends
-Revenue by vehicle type
-Pickup and drop hotspot locations
-Driver and customer ratings
-Ride completion vs cancellation insights
-🚘 Vehicle Analysis
-Vehicle-wise bookings
-Revenue contribution by vehicle type
-Customer count per vehicle
-Booking completion trend by month
-💰 Revenue Analysis
-Monthly and quarterly revenue trends
-Revenue by payment method
-Revenue by top customers
-Vehicle category revenue comparison
-👤 Rider Analysis
-First-time, return, and regular riders
+🌟 Project Overview
+
+The Uber Analytics Dashboard is a comprehensive business intelligence solution designed to monitor and optimize ride-sharing operations. By combining advanced data modeling, DAX calculations, and interactive visualizations, the dashboard delivers actionable insights into bookings, revenue, customer behavior, vehicle performance, cancellations, and demand patterns.
+
+📊 Key Performance Indicators
+
+💼 93K+ Completed Bookings
+📉 57K+ Lost Bookings
+💰 52M Total Revenue Generated
+🛣️ 2.51M Total Distance Covered
+📏 24.64 Average Trip Distance
+
+🚀 Dashboard Features
+🏠 Smart Home Page
+Modern and intuitive dashboard interface
+Interactive navigation across report sections
+Dynamic vehicle category filtering
+Seamless user experience
+📈 Business Overview
+Monthly booking and revenue trends
+Ride completion vs. cancellation analysis
+Driver and customer rating insights
+Pickup and drop-off hotspot visualization
+🚘 Vehicle Performance Analytics
+Vehicle-wise booking distribution
+Revenue contribution by vehicle category
+Customer preference analysis
+Monthly performance tracking
+💰 Revenue Intelligence
+Monthly and quarterly revenue analysis
+Payment method performance insights
+Top customer contribution analysis
+Revenue comparison across vehicle types
+👤 Rider Behavior Analytics
+New, returning, and loyal rider segmentation
 Customer payment preferences
-Ride cancellation reasons
-Monthly rider trend analysis
-📍 Location Analysis
-Distance trends by month
-Vehicle performance by location
-Peak demand time-slot heatmap
-Top high-demand pickup zones
-🛠️ Tools & Skills Used
+Cancellation reason analysis
+Rider growth and retention trends
+📍 Location Intelligence
+High-demand pickup and drop zones
+Distance trend analysis
+Peak-hour demand heatmaps
+Location-wise vehicle performance tracking
+🛠️ Technology Stack
 Power BI
 Power Query
 DAX Measures
-Data Cleaning
 Data Modeling
-KPI Reporting
-Interactive Filters & Navigation
-Dashboard UI/UX Design
-💡 Business Insights
-Auto rides generate the highest bookings and revenue
-UPI is the most preferred payment method
-Peak ride demand occurs in evening slots
-Customer cancellations reveal service improvement areas
-Specific pickup locations dominate demand
-🎯 Use Case
-This dashboard helps ride-sharing businesses:
+Data Cleaning & Transformation
+KPI Development
+Interactive Reporting
+Business Intelligence & Data Visualization
+💡 Key Business Insights
 
-optimize vehicle allocation
-improve rider experience
-reduce cancellations
-track revenue performance
-identify high-demand locations
-improve operational decision-making
+✅ Auto rides emerged as the highest revenue-generating vehicle category.
+✅ UPI became the most preferred payment method among customers.
+✅ Evening time slots recorded the highest ride demand.
+✅ Cancellation analysis revealed opportunities to improve service efficiency.
+✅ A small number of pickup locations contributed significantly to overall demand.
+
+🎯 Business Impact
+
+This dashboard empowers ride-sharing businesses to:
+
+Optimize fleet allocation and utilization
+Enhance customer experience and retention
+Reduce booking cancellations
+Monitor revenue performance in real time
+Identify demand hotspots and growth opportunities
+Enable faster, data-driven decision making
